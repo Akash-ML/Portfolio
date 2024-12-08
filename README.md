@@ -1,3 +1,3 @@
 # Portfolio
 This is my personal portfolio. \
-Built using HTML, CSS, JavaScript.
+Built using HTML and CSS.
